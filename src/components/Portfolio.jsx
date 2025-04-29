@@ -17,7 +17,7 @@ const Portfolio = () => {
         "Dinas Perpustakaan dan Kearsipan Kabupaten Sleman menghadirkan Sistem Web Support Perpustakaan Sleman, yaitu layanan berbasis QR Code yang memudahkan masyarakat dalam mengakses berbagai link website resmi milik Perpustakaan dan Arsip Sleman. Setelah warga memindai barcode yang tersedia di plakat, mereka akan diarahkan ke satu halaman web yang berisi kumpulan tautan seperti e-library, katalog digital, dan berbagai layanan literasi lainnya.",
         "Plakat dengan QR Code ini sudah dipasang di berbagai titik strategis di wilayah Sleman, seperti kantor kelurahan, sekolah, ruang publik, dan fasilitas umum lainnya. Contoh Plakat dapat dilihat pada gambar.",
       ],
-      images: ["/src/assets/7.png", "/src/assets/8.jpeg", "/src/assets/2.png", "/src/assets/3.png", "/src/assets/4.png","/src/assets/5.png","/src/assets/6.png"],
+      images: ["./assets/7.png", "./assets/8.jpeg", "./assets/2.png", "./assets/3.png", "./assets/4.png","./assets/5.png","./assets/6.png"],
       category: "Web",
       technologies: ["HTML", "CSS", "JavaScript"],
       metrics: [
@@ -32,7 +32,7 @@ const Portfolio = () => {
         "PesanKami adalah sebuah landing page modern yang saya kembangkan pada tahun 2024 untuk mempromosikan layanan digital Website ini dirancang dengan tampilan profesional guna menarik perhatian calon klien serta memudahkan mereka memahami layanan yang ditawarkan",
         "Proyek ini juga menjadi portofolio saya dalam menunjukkan kemampuan teknis di bidang web development, mulai dari desain antarmuka hingga deployment menggunakan GitHub Pages.",
       ],
-        images: ["/src/assets/1a.png", "/src/assets/1b.png", "/src/assets/1c.png", "/src/assets/1e.png", "/src/assets/1d.png","/src/assets/1e.png","/src/assets/1f.png","/src/assets/1g.png"],
+        images: ["./assets/1a.png", "./assets/1b.png", "./assets/1c.png", "./assets/1e.png", "./assets/1d.png","./assets/1e.png","./assets/1f.png","./assets/1g.png"],
         category: "Web",
       technologies: ["HTML", "CSS", "JavaScript", "PHP"],
       metrics: [
@@ -46,7 +46,7 @@ const Portfolio = () => {
       shortDescription: "Proyek dan keahlian digital saya, secara kreatif dan inovatif.",
       fullDescription:
         "Website profesional untuk menampilkan pengalaman, keahlian, dan proyek-proyek digital saya sebagai pengembang web.",
-        images: ["/src/assets/2a.png", "/src/assets/2b.png", "/src/assets/1c.png", "/src/assets/1e.png", "/src/assets/1d.png","/src/assets/1e.png","/src/assets/1f.png","/src/assets/1g.png"],
+        images: ["./assets/2a.png", "./assets/2b.png", "./assets/1c.png", "./assets/1e.png", "./assets/1d.png","./assets/1e.png","./assets/1f.png","./assets/1g.png"],
       category: "Web",
       technologies: ["React", "TailwindCSS", "HTML", "Js"],
       metrics: [
@@ -59,7 +59,7 @@ const Portfolio = () => {
       shortDescription: "Sistem telah selesai dibuat, Terdapat masalah uplaod ke github",
       fullDescription:
         "Sistem telah selesai dikembangkan, namun proses upload ke GitHub sedikit tertunda karena file-nya sempat tidak ditemukan. ",
-      images: ["/src/assets/so.png"],
+      images: ["./assets/so.png"],
       category: "Mobile",
       technologies: ["React Native", "Firebase", "Framework Laravel"],
       metrics: [
@@ -72,7 +72,7 @@ const Portfolio = () => {
       shortDescription: "Coming Soon",
       fullDescription:
         "Migrasi infrastruktur besar-besaran ke cloud untuk meningkatkan efisiensi dan menghemat biaya hingga 60%.",
-      images: ["/src/assets/so.png"],
+      images: ["./assets/so.png"],
       category: "Cloud",
       technologies: ["AWS", "Kubernetes"],
       metrics: [
