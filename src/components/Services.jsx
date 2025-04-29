@@ -184,7 +184,7 @@ const Services = () => {
               <X />
             </button>
             <iframe
-              src="/public/CVSabrinakh.pdf"
+              src="./assets/CVSabrinakh.pdf"
               className="w-full h-[500px]"
               title="CV PDF"
             />
