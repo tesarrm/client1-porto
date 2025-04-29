@@ -55,7 +55,7 @@ const About = () => {
           {/* FOTO SABRINA - DITENGAH */}
           <div className="mb-8 flex justify-center">
             <img
-              src="/SAB.jpeg"
+              src="./assets/SAB.jpeg"
               alt="Sabrina"
               className="w-40 h-40 rounded-full object-cover shadow-lg"
             />

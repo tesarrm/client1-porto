@@ -203,7 +203,7 @@ const Services = () => {
               <X />
             </button>
             <img
-              src="/SAB.jpeg"
+              src="./assets/SAB.jpeg"
               alt="Foto Sabrina"
               className="w-32 h-32 rounded-full mx-auto mb-4"
             />
